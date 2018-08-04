@@ -1,0 +1,15 @@
+
+#animalPic:hover {
+cursor:pointer;
+background-color:red;
+}
+
+#Buffalo:hover {
+cursor:pointer;
+  background-color: dodgerblue;
+}
+
+#Rhino:hover {
+  cursor:pointer;
+    background-color:yellow;
+  }
