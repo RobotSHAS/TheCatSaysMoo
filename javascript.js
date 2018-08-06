@@ -4,12 +4,12 @@
 
 animal.onclick = function(){
   var animalSounds = [
-    'moo',
-    'meow',
-    'quack',
-    'woof',
-    'oink',
-    'neigh'
+    'moo!',
+    'meow!',
+    'quack!',
+    'woof!',
+    'oink!',
+    'neigh!'
   ];
   var beginningOfPhrase = 'The cat says ';
   var sound;
@@ -25,12 +25,12 @@ var animal = document.getElementById('animalPic');
 
 Buffalo.onclick = function(){
 var animalSounds = [
-  'moo',
-  'meow',
-  'quack',
-  'woof',
-  'oink',
-  'neigh'
+  'moo!',
+  'meow!',
+  'quack!',
+  'woof!',
+  'oink!',
+  'neigh!'
 ];
 var beginningOfPhrase = 'The buffalo says ';
 var sound;
@@ -46,12 +46,12 @@ var animal = document.getElementById('animalPic');
 
 Rhino.onclick = function(){
 var animalSounds = [
-  'moo',
-  'meow',
-  'quack',
-  'woof',
-  'oink',
-  'neigh'
+  'moo!',
+  'meow!',
+  'quack!',
+  'woof!',
+  'oink!',
+  'neigh!'
 ];
 var beginningOfPhrase = 'The rhino says ';
 var sound;

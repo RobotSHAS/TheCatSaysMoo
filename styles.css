@@ -1,3 +1,6 @@
+body {
+    background-color: lightblue;
+}
 
 #animalPic:hover {
 cursor:pointer;
